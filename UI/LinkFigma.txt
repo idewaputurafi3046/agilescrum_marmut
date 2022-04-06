@@ -2,3 +2,4 @@ Rafi = https://www.figma.com/file/RQHRI9be3ok1C1KspiS7pq/Agile-Scrum-(Marmut)?no
 Deby = 
 Ayu = 
 Satria = 
+Mila = https://www.figma.com/file/FB3rwYmO08igsFggRVsqsz/wireframe?node-id=0%3A1
